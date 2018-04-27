@@ -1,0 +1,22 @@
+{
+  "name": "motechat-echo-server",
+  "version": "1.0.0",
+  "description": "simplest motechat eho server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shakascchen@github.com/libgirlenterprise/motechat-echo-server.git"
+  },
+  "author": "Libgirl Co., Ltd.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libgirlenterprise/motechat-echo-server/issues"
+  },
+  "homepage": "https://github.com/libgirlenterprise/motechat-echo-server#readme",
+  "dependencies": {
+    "motechat": "^0.1.0"
+  }
+}
