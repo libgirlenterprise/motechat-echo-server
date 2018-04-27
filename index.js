@@ -1,7 +1,7 @@
 var conf = require('./config.json');
 var mchat = require('motechat');
 
-mchat.init(conf, function(result){
+mchat.Init(conf, function(result){
    console.log('init result=%s', JSON.stringify(result)); 
 });
 
