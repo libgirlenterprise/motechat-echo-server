@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/libgirlenterprise/motechat-echo-server#readme",
   "dependencies": {
+    "motebus": "^1.0.7",
     "motechat": "^0.1.0"
   }
 }
