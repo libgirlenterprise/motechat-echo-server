@@ -1,5 +1,3 @@
-const mchat = require('motechat');
-
 var conf = require('./config.json');
 var mchat = require('motechat');
 
